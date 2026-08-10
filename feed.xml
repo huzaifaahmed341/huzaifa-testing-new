@@ -10,7 +10,7 @@
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="privacy-policy.html">
-<link rel="shortcut icon"  href="img/1785504880343323.png"/>
+<link rel="shortcut icon"  href="img/"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-*{
-font-family: 'Kumbh Sans', sans-serif;
+footer a{
+color:#ffffff;
+text-decoration: underline;
 }
-a{
-text-decoration: none!important;
+html{
+scroll-behavior: smooth;
 }
-.nav-item{
-padding-left:8.2px;
-padding-right:8.5px;
-padding-top:5.2px;
-padding-bottom:5.1px;
-}
-.w4d220c03d65fb7a24921bdc5e1e030e5 a{
-font-size:16px;
-}
-.yba32d2471f48596fe1a0b245bc0abe8c p,.yba32d2471f48596fe1a0b245bc0abe8c a,.yba32d2471f48596fe1a0b245bc0abe8c span,.yba32d2471f48596fe1a0b245bc0abe8c label{
-font-size:16px!important;
-}
-.w4d220c03d65fb7a24921bdc5e1e030e5 p,.w4d220c03d65fb7a24921bdc5e1e030e5 span,.w4d220c03d65fb7a24921bdc5e1e030e5 label{
-font-size:16px!important;
-}
-.f11fcb3131d5f0af5afd8fdd41ab817ec:hover{
-box-shadow: 0 50.1px 50.1px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.yba32d2471f48596fe1a0b245bc0abe8c a,.w4d220c03d65fb7a24921bdc5e1e030e5 a{
-color:#010101!important;
-text-decoration: underline !important;
-}
-.btn-md{
-padding: 14.9px 30px;
-border-radius: 0;
-}
-.y62a6e3c1449179438611d4558c9e299c{
+.x26960407e7444fa883bfba883fa7924e{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
 }
-footer{
-background:#0c0c0c;
-color:#ffffff;
+.vefb11d9199eebfd34932cc56d84c3390 a,.wa4bad8a054e0461f7272f9e4a7af58e2 a{
+color:#101010!important;
+text-decoration: underline !important;
 }
-footer *{
-font-size:16px !important;
-}
-ul{
-list-style: circle;
+.wa4bad8a054e0461f7272f9e4a7af58e2 p,.wa4bad8a054e0461f7272f9e4a7af58e2 span,.wa4bad8a054e0461f7272f9e4a7af58e2 label{
+font-size:16px!important;
 }
 .nav-link{
 color: #000000;
 
 }
-html{
-scroll-behavior: smooth;
+footer *{
+font-size:16px !important;
 }
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-.navbar a{
-font-size: 17.5px!important;
-font-weight: bold;
+.btn-md{
+padding: 15.2px 30.5px;
+border-radius: 0;
 }
 a:hover{
 color:#ffffff;background:#ffc658!important;
+}
+a{
+text-decoration: none!important;
+}
+.nav-item{
+padding-left:8.3px;
+padding-right:7.6px;
+padding-top:5.3px;
+padding-bottom:4.8px;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.wa4bad8a054e0461f7272f9e4a7af58e2 a{
+font-size:16px;
+}
+ul{
+list-style: circle;
+}
+.navbar a{
+font-size: 18px!important;
+font-weight: bold;
+}
+footer{
+background:#111111;
+color:#ffffff;
+}
+.vefb11d9199eebfd34932cc56d84c3390 p,.vefb11d9199eebfd34932cc56d84c3390 a,.vefb11d9199eebfd34932cc56d84c3390 span,.vefb11d9199eebfd34932cc56d84c3390 label{
+font-size:16px!important;
+}
+.u0a1d4eebb18c52a0c94c73b6679e5885:hover{
+box-shadow: 0 49.7px 50.1px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
     .dropdown-submenu {
     position: relative;
@@ -200,19 +200,36 @@ color:#ffffff;background:#ffc658!important;
   }
 }
 </style>
-</head>
+<!-- version 03 / header block A -->
+<meta name="yacss-version" content="v03">
+<meta name="yacss-header-block" content="A">
+<meta name="yacss-topic" content="Moss Removal">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Service","name":"Moss Removal","identifier":"v03-A"}
+</script></head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="index.html"  ><img alt="img/1785504880343323.png" src="img/1785504880343323.png"  width="150px" ></a>
+<a class="navbar-brand" href="index.html"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="align-items-center d-flex ml-auto navbar-nav"><li class=" nav-item">
-<a class="nav-link z80171ef6c59c16eb8e0f57ec9884b349" href="index.html"  >STRUCTURE OF LANG</a>
-</li><li class=" nav-item">
-<a class="nav-link z80171ef6c59c16eb8e0f57ec9884b349" href="sstedsdm-asd.html"  >SSTEDSDM ASD</a>
-</li><li class="nav-item ">
-<a class="nav-link z80171ef6c59c16eb8e0f57ec9884b349" href="wqeqwewqewqe.html"  >wqeqwewqewqe</a>
-</li><li class="nav-item"><a class="z80171ef6c59c16eb8e0f57ec9884b349 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<ul class="d-flex navbar-nav ml-auto align-items-center"><li class="nav-item">
+<a class="nav-link v670ba632b6efa5369d5b54d6971d9d40" href="index.html" >8</a>
+</li>
+<li class="nav-item">
+<a class="v670ba632b6efa5369d5b54d6971d9d40 nav-link" href="9.html" >9</a>
+</li>
+<li class="nav-item">
+<a class="nav-link v670ba632b6efa5369d5b54d6971d9d40" href="10.html" >10</a>
+</li>
+<li class="nav-item">
+<a class="v670ba632b6efa5369d5b54d6971d9d40 nav-link" href="1.html" >1</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle v670ba632b6efa5369d5b54d6971d9d40" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="2.html"  >2</a><a class="dropdown-item" href="3.html"  >3</a><a class="dropdown-item" href="4.html"  >4</a><a class="dropdown-item" href="5.html"  >5</a><a class="dropdown-item" href="6.html"  >6</a><a class="dropdown-item" href="7.html"  >7</a></div>
+</li>
+<li class="nav-item"><a class="nav-link v670ba632b6efa5369d5b54d6971d9d40" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -279,10 +296,10 @@ This website is owned and published by:
 </p>
 </section>
 <footer>
-<div class="pt-5 py-4 container" >
-<div class="row"><div class="col-lg-3"><p><a class="z80171ef6c59c16eb8e0f57ec9884b349" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="z80171ef6c59c16eb8e0f57ec9884b349" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="z80171ef6c59c16eb8e0f57ec9884b349" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="v670ba632b6efa5369d5b54d6971d9d40" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="v670ba632b6efa5369d5b54d6971d9d40" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="v670ba632b6efa5369d5b54d6971d9d40" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>

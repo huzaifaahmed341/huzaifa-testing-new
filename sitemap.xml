@@ -6,62 +6,106 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>9.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>residential-solar-panel-installation.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>10.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>commercial-solar-panel-installation.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>1.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>rooftop-solar-panel-installation-services.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>2.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-panel-system-design-and-sizing.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>3.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-battery-storage-installation.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>4.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-panel-maintenance-and-cleaning.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>5.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-panel-repair-and-troubleshooting.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>6.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-panel-installation-cost-and-financing.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>7.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <loc>solar-incentives-and-tax-credits-in-texas.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/interconnection-queues-remain-the-main-delay-for-new-installs.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/interconnection-queues-remain-the-main-delay-for-new-installs.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/high-summer-temperatures-reduce-panel-efficiency.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/high-summer-temperatures-reduce-panel-efficiency.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/microinverters-and-string-inverters-suit-different-roofs.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/microinverters-and-string-inverters-suit-different-roofs.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/panel-recycling-and-end-of-life-handling-draw-more-attention.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/panel-recycling-and-end-of-life-handling-draw-more-attention.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/ev-charging-changes-how-a-solar-system-should-be-sized.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/ev-charging-changes-how-a-solar-system-should-be-sized.html</loc>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2026-08-10T12:59:06+00:00</lastmod>
+                 <lastmod>2026-08-16T13:22:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>

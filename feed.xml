@@ -10,7 +10,7 @@
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="privacy-policy.html">
-<link rel="shortcut icon"  href="img/"/>
+<link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-footer{
-background:#131313;
-color:#ffffff;
-}
-.c93d897674bd6bba58317ea5b24d26a3f a{
-font-size:16px;
-}
-.navbar a{
-font-size: 17.7px!important;
-font-weight: bold;
-}
-.yc0a479be6e223d344a35a000745f9dbf{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+.nav-item{
+padding-left:7.5px;
+padding-right:7.7px;
+padding-top:5.3px;
+padding-bottom:5.3px;
 }
 a{
 text-decoration: none!important;
 }
-.b2f566f4b05ce772c9451aeadea42e8f3 p,.b2f566f4b05ce772c9451aeadea42e8f3 a,.b2f566f4b05ce772c9451aeadea42e8f3 span,.b2f566f4b05ce772c9451aeadea42e8f3 label{
+.y3b6b03336c7e479a7831ae633a2ccd41 p,.y3b6b03336c7e479a7831ae633a2ccd41 span,.y3b6b03336c7e479a7831ae633a2ccd41 label{
 font-size:16px!important;
 }
-.btn-md{
-padding: 14.5px 30.3px;
-border-radius: 0;
-}
-ul{
-list-style: circle;
+.f08a9da30b6811c7a57222c024abbe6d4{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
 footer *{
 font-size:16px !important;
 }
-.b2f566f4b05ce772c9451aeadea42e8f3 a,.c93d897674bd6bba58317ea5b24d26a3f a{
-color:#050505!important;
-text-decoration: underline !important;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important;
-}
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.c93d897674bd6bba58317ea5b24d26a3f p,.c93d897674bd6bba58317ea5b24d26a3f span,.c93d897674bd6bba58317ea5b24d26a3f label{
+.zca1d35b416d5599a04b3b51a26f240aa:hover{
+box-shadow: 0 49.5px 49.6px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.y3b6b03336c7e479a7831ae633a2ccd41 a{
+font-size:16px;
+}
+.vd800769e7372e7156ff007664c571c98 p,.vd800769e7372e7156ff007664c571c98 a,.vd800769e7372e7156ff007664c571c98 span,.vd800769e7372e7156ff007664c571c98 label{
 font-size:16px!important;
 }
-.nav-item{
-padding-left:8.1px;
-padding-right:8.5px;
-padding-top:5px;
-padding-bottom:4.7px;
-}
-html{
-scroll-behavior: smooth;
+footer{
+background:#000000;
+color:#ffffff;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.a6e747f2f5ac92a4cc000d15b79c22ef5:hover{
-box-shadow: 0 50.2px 49.8px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+.navbar a{
+font-size: 17.9px!important;
+font-weight: bold;
 }
 .nav-link{
 color: #000000;
 
+}
+html{
+scroll-behavior: smooth;
+}
+.vd800769e7372e7156ff007664c571c98 a,.y3b6b03336c7e479a7831ae633a2ccd41 a{
+color:#000000!important;
+text-decoration: underline !important;
+}
+ul{
+list-style: circle;
+}
+a:hover{
+color:#000000;background:#000000!important;
+}
+.btn-md{
+padding: 15px 29.9px;
+border-radius: 0;
 }
     .dropdown-submenu {
     position: relative;
@@ -200,51 +200,46 @@ color: #000000;
   }
 }
 </style>
-<!-- version 03 / header block A -->
-<meta name="yacss-version" content="v03">
-<meta name="yacss-header-block" content="A">
-<meta name="yacss-topic" content="Moss Removal">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Moss Removal","identifier":"v03-A"}
-</script></head>
+</head>
 <body>
-<nav class="navbar navbar-expand-lg">
-<a class="navbar-brand" href="index.html"  ></a>
+<nav class="navbar-expand-lg navbar">
+<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="d-flex align-items-center ml-auto navbar-nav"><li class="nav-item">
-<a class="xad68ce918032bcafb5aaec2b146ef8f4 nav-link" href="index.html" >8</a>
+<ul class="align-items-center ml-auto navbar-nav d-flex"><li class="nav-item"><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec nav-link" href="news.html" rel="nofollow" >News</a></li>
+<li class="nav-item">
+<a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec nav-link" href="index.html" >NEW Solar Panel Installation in Austin, TX</a>
 </li>
 <li class="nav-item">
-<a class="nav-link xad68ce918032bcafb5aaec2b146ef8f4" href="9.html" >9</a>
+<a class="nav-link cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="residential-solar-panel-installation.html" >Residential Solar Panel Installation</a>
 </li>
 <li class="nav-item">
-<a class="xad68ce918032bcafb5aaec2b146ef8f4 nav-link" href="10.html" >10</a>
+<a class="nav-link cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="commercial-solar-panel-installation.html" >Commercial Solar Panel Installation</a>
 </li>
 <li class="nav-item">
-<a class="xad68ce918032bcafb5aaec2b146ef8f4 nav-link" href="1.html" >1</a>
+<a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec nav-link" href="rooftop-solar-panel-installation-services.html" >Rooftop Solar Panel Installation Services</a>
 </li>
-<li class="dropdown nav-item">
-<a class="dropdown-toggle xad68ce918032bcafb5aaec2b146ef8f4 nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="2.html"  >2</a><a class="dropdown-item" href="3.html"  >3</a><a class="dropdown-item" href="4.html"  >4</a><a class="dropdown-item" href="5.html"  >5</a><a class="dropdown-item" href="6.html"  >6</a><a class="dropdown-item" href="7.html"  >7</a></div>
+<li class="nav-item dropdown">
+<a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="solar-panel-system-design-and-sizing.html"  >Solar Panel System Design and Sizing</a><a class="dropdown-item" href="solar-battery-storage-installation.html"  >Solar Battery Storage Installation</a><a class="dropdown-item" href="solar-panel-maintenance-and-cleaning.html"  >Solar Panel Maintenance and Cleaning</a><a class="dropdown-item" href="solar-panel-repair-and-troubleshooting.html"  >Solar Panel Repair and Troubleshooting</a><a class="dropdown-item" href="solar-panel-installation-cost-and-financing.html"  >Solar Panel Installation Cost and Financing</a><a class="dropdown-item" href="solar-incentives-and-tax-credits-in-texas.html"  >Solar Incentives and Tax Credits in Texas</a></div>
 </li>
-<li class="nav-item"><a class="xad68ce918032bcafb5aaec2b146ef8f4 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
 <section class="container" style="min-height: 80vh;">
-<h1>Privacy Policy for </h1>
-<p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+<h1>Privacy Policy for Acme Solar</h1>
+<p>At Acme Solar one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by Acme Solar and how we use it. You can check out our main website here: https://acme.example</p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
-<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Acme Solar. This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
 <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
 <h2>Information we collect</h2>
 <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
 <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, , address, email address, and telephone number.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Acme Solar, address, email address, and telephone number.</p>
 <h2>How we use your information</h2>
 <p>We use the information we collect in various ways, including to:</p>
 <ul>
@@ -257,13 +252,13 @@ color: #000000;
 <li>Find and prevent fraud</li>
 </ul>
 <h2>Log Files</h2>
-<p> follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<p>Acme Solar follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 <h2>Advertising Partners Privacy Policies</h2>
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of .</p>
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on , which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
-<p>Note that  has no access to or control over these cookies that are used by third-party advertisers.</p>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Acme Solar.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Acme Solar, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Acme Solar has no access to or control over these cookies that are used by third-party advertisers.</p>
 <h2>Third Party Privacy Policies</h2>
-<p>'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>Acme Solar's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
 <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
 <p>Under the CCPA, among other rights, California consumers have the right to:</p>
@@ -282,24 +277,35 @@ color: #000000;
 <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
 <h2>Children's Information</h2>
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
-<p> does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p>Acme Solar does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 <h2>Publisher</h2>
 <p>
 This website is owned and published by:
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+Acme Solar</br>
+555-123-4567</br>
+12 Main St</br>
+Austin</br>
+TX</br>
+https://acme.example</br>
+hi@acme.example</br>
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="xad68ce918032bcafb5aaec2b146ef8f4" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="xad68ce918032bcafb5aaec2b146ef8f4" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="xad68ce918032bcafb5aaec2b146ef8f4" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 pt-5 container" >
+<div class="row"><div class="col-lg-3">
+<p>Acme Solar</p>
+<p>Phone : 555-123-4567</p>
+<p>Email : hi@acme.example</p>
+<p>City : Austin</p>
+<p>State : TX</p>
+<p>Zip : 78701</p>
+<p>Address : 12 Main St</p>
+<p>Company Website : <a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="https://acme.example" rel="nofollow">https://acme.example</a></p>
+</div><div class="col-lg-3">
+<p>USEFUL LINKS</p>
+<p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="https://acme.example/installation" rel="nofollow" target="_blank">Installation</a></p><p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="https://acme.example/maintenance" rel="nofollow" target="_blank">Maintenance</a></p><p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="https://acme.example/repair" rel="nofollow" target="_blank">Repair</a></p></div><div class="col-lg-3"><p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="cb7ac0dfbb50939b50cd45ad4e9a3c5ec" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
